@@ -10,3 +10,5 @@ En este desafio se consumio una API y se busco cumplir con los siguientes requis
 3. Manejar los posibles errores con try-catch.
 
 Además se trato de dar un estilo semejante al de la imagen proporcionada
+
+Finalmente se incluyo una rama con el github Pages para desplegar 
